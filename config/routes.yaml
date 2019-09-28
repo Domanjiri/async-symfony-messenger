@@ -1,0 +1,3 @@
+index:
+    path: /sms/send
+    controller: App\Controller\SmsController::send
